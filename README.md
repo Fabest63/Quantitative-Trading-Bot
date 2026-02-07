@@ -63,7 +63,7 @@ A critical component of this project is the **custom OpenAI Gym (Gymnasium) envi
 
 ## 🔒 License & Copyright
 
-**Copyright © 2024 [TU NOMBRE / TU EMPRESA]. All Rights Reserved.**
+**Copyright © 2024 Alisium. All Rights Reserved.**
 
 This software, including the architectural design, custom environment logic, and trained model weights, is the proprietary intellectual property of the author.
 
